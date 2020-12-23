@@ -1,0 +1,11 @@
+C:\Users\sebasruizr\Git\OB_ABITAX_FindXML\OB_ABITAX_FindXML\bin\Debug\OB_ABITAX_FindXML.exe.config
+C:\Users\sebasruizr\Git\OB_ABITAX_FindXML\OB_ABITAX_FindXML\bin\Debug\OB_ABITAX_FindXML.exe
+C:\Users\sebasruizr\Git\OB_ABITAX_FindXML\OB_ABITAX_FindXML\bin\Debug\OB_ABITAX_FindXML.pdb
+C:\Users\sebasruizr\Git\OB_ABITAX_FindXML\OB_ABITAX_FindXML\obj\Debug\OB_ABITAX_FindXML.csprojAssemblyReference.cache
+C:\Users\sebasruizr\Git\OB_ABITAX_FindXML\OB_ABITAX_FindXML\obj\Debug\OB_ABITAX_FindXML.csproj.CoreCompileInputs.cache
+C:\Users\sebasruizr\Git\OB_ABITAX_FindXML\OB_ABITAX_FindXML\obj\Debug\OB_ABITAX_FindXML.exe
+C:\Users\sebasruizr\Git\OB_ABITAX_FindXML\OB_ABITAX_FindXML\obj\Debug\OB_ABITAX_FindXML.pdb
+C:\Users\sebasruizr\Git\OB_ABITAX_FindXML\OB_ABITAX_FindXML\bin\Debug\OB_ABITAX_FindXML.exe.manifest
+C:\Users\sebasruizr\Git\OB_ABITAX_FindXML\OB_ABITAX_FindXML\bin\Debug\OB_ABITAX_FindXML.application
+C:\Users\sebasruizr\Git\OB_ABITAX_FindXML\OB_ABITAX_FindXML\obj\Debug\OB_ABITAX_FindXML.exe.manifest
+C:\Users\sebasruizr\Git\OB_ABITAX_FindXML\OB_ABITAX_FindXML\obj\Debug\OB_ABITAX_FindXML.application
